@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+  "SearchInput":"../../components/SearchInput/SearchInput"
+  },
+  "navigationBarTitleText": "刘硕的第一个小程序"
+}
